@@ -1,0 +1,21 @@
+
+Improvements from unittest in Python 2.6
+========================================
+
+
+Improvements from unittest in Python 2.7
+========================================
+
+* `assertWarns`
+* Addition of `unittestgui`
+
+
+Improvements from unittest in Python 3.2
+========================================
+
+* http://bugs.python.org/issue11763
+
+
+Differences from unittest in Python Standard Library
+====================================================
+
